@@ -17,22 +17,25 @@ body {
 
 table {
     border-collapse: collapse;
-    width: 35%;
-  }
-  
-  th, td {
+    width: 65%;
+}
+
+th, td {
     text-align: left;
     padding: 15px;
-  }
-  
-  tr:nth-child(even){background-color: #f2f2f2}
-  
-  th {
-  
+}
+
+tr:nth-child(even){
+    background-color: #f2f2f2
+}
+
+th {
     background-color: DarkCyan;
     color: white;
-  }
+}
 
 
-  tr:hover {background-color: Gainsboro;}
+tr:hover {
+    background-color: Gainsboro;
+}
   
