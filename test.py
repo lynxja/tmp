@@ -1,0 +1,9 @@
+a=int(input())
+b=int(input())
+c=(a+4*b)
+print(c)
+d=(a-3*b)
+print(d)
+e=a**1
+print(e)
+print(c*d+e)
